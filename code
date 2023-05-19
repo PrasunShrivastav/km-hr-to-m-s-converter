@@ -1,0 +1,5 @@
+abc = input('km/hr')
+xyz = float(abc) * 1000 / 3600
+print( 'm/s', xyz )
+# this a km/hr to m/s converter it will help in easing physics calculations 
+#all the best
